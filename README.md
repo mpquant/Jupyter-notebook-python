@@ -1,0 +1,2 @@
+# Jupyter-notebook-python
+Jupyter中文版 jupyter notebook集成汉化版 本地一键安装傻瓜版 无需配置 集成python3绿色环境 预装pandas，matplotlib等常用库，比Anaconda更简单且高度集成 是更好的 python互动编程环境 python学习教育培训软件工具 人工智能和深度学习互动研究环境
