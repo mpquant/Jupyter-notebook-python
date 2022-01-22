@@ -16,10 +16,10 @@ python3 内核3.8
 
 #### 使用说明
 
-1.  电脑系统需要64位系统
-2.  需要net4.5或者更高版本
+1.  电脑系统需要win7或者win10的64位系统
+2.  win7需要net4.5或者更高版本,win10已经默认安装，无需设置
 
-#### 下载
+#### 下载使用
 官方下载地址
 
 http://www.mp58.net/jupytercn.html
@@ -29,10 +29,14 @@ http://www.mp58.net/jupytercn.html
 链接: https://pan.baidu.com/s/1sSw-5aBTM3FGt2NpSFQphQ 提取码: 53n3
 
 
-#### 优点
+#### 详细介绍
 
 1.  不需要单独再去下载python进行复杂的环境配置
 2.  高度集成的python3开发环境
 3.  纯中文界面，中文提示
+
+<div  align="center"> <img src="/img/help1.png" width = "960" height = "400" alt="taq" /> </div>
+
+<div  align="center"> <img src="/img/help2.png" width = "960" height = "400" alt="taq" /> </div>
 
 ![jupyter下载页大图](https://user-images.githubusercontent.com/47958404/150096404-436d010a-67af-4797-8dc1-5a440eeaa698.png)
