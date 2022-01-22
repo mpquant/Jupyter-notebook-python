@@ -35,8 +35,11 @@ http://www.mp58.net/jupytercn.html
 2.  高度集成的python3开发环境
 3.  纯中文界面，中文提示
 
-<div  align="center"> <img src="/img/help1.png" width = "960" height = "400" alt="taq" /> </div>
+<div  align="center"> <img src="/img/help1.png" width = "712" height = "477" alt="taq" /> </div>
 
-<div  align="center"> <img src="/img/help2.png" width = "960" height = "400" alt="taq" /> </div>
+
+<div  align="center"> <img src="/img/help2.png" width = "671" height = "511" alt="taq" /> </div>
+
+
 
 ![jupyter下载页大图](https://user-images.githubusercontent.com/47958404/150096404-436d010a-67af-4797-8dc1-5a440eeaa698.png)
