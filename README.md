@@ -38,8 +38,8 @@ http://www.mp58.net/jupytercn.html
 <div  align="center"> <img src="/img/help1.png" width = "712" height = "477" alt="taq" /> </div>
 
 
-<div  align="center"> <img src="/img/help2.png" width = "671" height = "511" alt="taq" /> </div>
+<div  align="center"> <img src="/img/help2.png" width = "712" height = "520" alt="taq" /> </div>
+
+<div  align="center"> <img src="https://user-images.githubusercontent.com/47958404/150096404-436d010a-67af-4797-8dc1-5a440eeaa698.png" width = "712" height = "520" alt="taq" /> </div>
 
 
-
-![jupyter下载页大图](https://user-images.githubusercontent.com/47958404/150096404-436d010a-67af-4797-8dc1-5a440eeaa698.png)
