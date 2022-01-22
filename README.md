@@ -35,11 +35,12 @@ http://www.mp58.net/jupytercn.html
 2.  高度集成的python3开发环境
 3.  纯中文界面，中文提示
 
+##  人性化的全中文界面
 <div  align="center"> <img src="/img/help1.png" width = "712" height = "477" alt="taq" /> </div>
 
 
+##  演示pandas和股票曲线作图
 <div  align="center"> <img src="/img/help2.png" width = "712" height = "520" alt="taq" /> </div>
 
-<div  align="center"> <img src="https://user-images.githubusercontent.com/47958404/150096404-436d010a-67af-4797-8dc1-5a440eeaa698.png" width = "712" height = "520" alt="taq" /> </div>
 
 
